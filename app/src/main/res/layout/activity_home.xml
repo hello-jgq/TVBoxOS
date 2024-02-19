@@ -26,7 +26,7 @@
             android:focusable="false"
             android:focusableInTouchMode="false"
             android:gravity="left|center_vertical"
-            android:text="老王书记定制版"
+            android:text="JGQTV"
 
             
             android:textAlignment="gravity"
